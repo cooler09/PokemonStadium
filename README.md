@@ -1,2 +1,4 @@
 # PokemonStadium
-AcademyPGH evening class creation
+AcademyPGH evening class's creation to simulate basic pokemon combat.
+
+
